@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-right: 10px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+#expense-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#expense-list li {
+    margin-bottom: 10px;
+}
+
+#total-expense {
+    margin-top: 20px;
+    font-weight: bold;
+}
